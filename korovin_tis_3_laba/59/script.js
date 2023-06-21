@@ -1,0 +1,11 @@
+"use strict";
+//alert("text!"); // comment
+/*
+comment
+*/
+
+let num = 10;
+num++;
+num++;
+num--;
+alert(num);
