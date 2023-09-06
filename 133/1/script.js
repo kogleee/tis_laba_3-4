@@ -1,0 +1,1 @@
+confirm("Вам есть 18?") ? alert("yes"): alert("no")
